@@ -84,11 +84,3 @@ public class App {
 		return result;
 	}
 }
-
-// achar a maior diferença a[j] - a[i], para todos i e j, onde 0 menor ou igual a i, que é menor que j, 
-// que é menor que n. Ou seja, j n pode ser o ultimo elemento
-// a[i] tem que ser menor que a[j]. Se n houver elementos menores a esquerda, retornar -1.
-
-// size de a tem que ser maior ou igual a 1, e menor ou igual a 210
-
-// valor do integer tem que ser maior ou igual a -106 e menor ou igual a 106.
